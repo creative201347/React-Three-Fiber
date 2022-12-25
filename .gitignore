@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+dikhololo_night_4k.hdr
+modern_buildings_4k.hdr
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
